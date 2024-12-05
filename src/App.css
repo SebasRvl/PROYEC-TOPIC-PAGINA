@@ -1,0 +1,25 @@
+.App {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #fff;
+}
+
+.home {
+  text-align: center;
+}
+
+.home-background {
+  width: 100%;
+  height: auto;
+}
+
+.catalog {
+  padding: 20px;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+}

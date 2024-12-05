@@ -1,0 +1,23 @@
+/* src/components/Footer.css */
+.footer {
+  background-image: url('../assets/IMAGENES/1.png');
+  background-size: cover;
+  background-position: center;
+}
+
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer-content div h3 {
+    font-weight: bold;
+  }
+  
+  .footer p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+  }
+  
